@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Elgun Resulov
 
-<!--
-**elgunresulov/elgunresulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Frontend developer from Azerbaijan
 
-Here are some ideas to get you started:
+## Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
