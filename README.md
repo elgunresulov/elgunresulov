@@ -2,9 +2,8 @@
 
 A Frontend developer from Azerbaijan
 
-## Languages and Tools:
+##  💻 Languages and Tools:
 
-### 💻 Languages and Tools:
 
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="
